@@ -1,0 +1,4 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; ?>
+<?php if ( ! empty( $url ) && ! empty( $id ) ) : ?>
+<!-- Start 7Tag script code --><script type="text/javascript">(function(window,document,script,dataLayer,id){window[dataLayer]=window[dataLayer]||[];window[dataLayer].push({'7tag.start':new Date().getTime(),'event':'7tag.js'});var scripts=document.getElementsByTagName(script)[0],tags=document.createElement(script),dl=dataLayer!='dataLayer'?'?dataLayer='+dataLayer:'';tags.async=!0;tags.src='//<?= $url; ?>/containers/<?= $id; ?>.js'+dl;scripts.parentNode.insertBefore(tags,scripts)})(window,document,'script','dataLayer',<?= $id; ?>);</script><noscript><iframe src="//<?= $url; ?>/containers/<?= $id; ?>/noscript.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Tag script code -->
+<?php endif; ?>

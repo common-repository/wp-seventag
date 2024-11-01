@@ -1,0 +1,6 @@
+This file contains the list of people involved in the development of WP-Seventag along its history.
+
+Piotr Niewiadomski
+Irena Szukała
+
+Great thanks to Clearcode <http://clearcode.cc> for allowing releasing WP-Seventag as free software!

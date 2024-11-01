@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Seventag\n"
+"POT-Creation-Date: 2016-05-17 15:10+0200\n"
+"PO-Revision-Date: 2016-05-17 16:03+0200\n"
+"Last-Translator: Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language-Team: Clearcode | Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-seventag.php:52 includes/class-seventag.php:244
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/class-seventag.php:74
+msgid "7tag Settings"
+msgstr "7tag Ustawienia"
+
+#: includes/class-seventag.php:75 includes/class-seventag.php:98
+msgid "7tag"
+msgstr "7tag"
+
+#: includes/class-seventag.php:100
+msgid "Server URL"
+msgstr "URL Serwera"
+
+#: includes/class-seventag.php:114 includes/class-seventag.php:134
+#, php-format
+msgid "Learn more about %s on the 7tag documentation page."
+msgstr "Dowiedz się więcej o %s na stronie dokumentacji 7tag."
+
+#: includes/class-seventag.php:115
+msgid "Installation"
+msgstr "Instalacji"
+
+#: includes/class-seventag.php:120
+msgid "Container ID"
+msgstr "ID Kontenera"
+
+#: includes/class-seventag.php:135
+msgid "Containers"
+msgstr "Kontenerach"
+
+#: includes/class-seventag.php:140
+msgid "Include tags synchronous"
+msgstr "Umieść tagi synchronicznie"
+
+#: includes/class-seventag.php:153
+msgid "Preferred method"
+msgstr "Preferowana metoda"
+
+#: includes/class-seventag.php:171
+#, php-format
+msgid ""
+"Use this option if you are not sure if the %s function is added to your "
+"theme."
+msgstr ""
+"Użyj tej opcji jeśli nie jesteś pewny czy funkcja %s występuje w Twoim "
+"motywie."
+
+#: includes/class-seventag.php:172
+#, php-format
+msgid "It will add the 7tag snippet directly before the %s tag using %s."
+msgstr ""
+"Spowoduje to dodanie skryptu 7tag bezpośrednio przed znacznikiem %s za "
+"pomocą %s."
+
+#: includes/class-seventag.php:180
+msgid "Include tags asynchronous"
+msgstr "Umieść tagi asynchronicznie"
+
+#: includes/class-seventag.php:194
+#, php-format
+msgid ""
+"Add the following code directly after the %s tag in your theme (preferred "
+"method)"
+msgstr ""
+"Dodaj poniższy kod bezpośrednio po znaczniku %s w swoim motywie (preferowana "
+"metoda)"
+
+#: includes/class-seventag.php:215
+#, php-format
+msgid "Use this option if you cannot add the %s function to your theme."
+msgstr "Użyj tej opcji jeśli nie możesz dodać funkcji %s do swojego motywu."
+
+#: includes/class-seventag.php:216
+#, php-format
+msgid "It will add the 7tag snippet directly after the %s tag using %s."
+msgstr ""
+"Spowoduje to dodanie skryptu 7tag bezpośrednio po znaczniku %s za pomocą %s."
+
+#~ msgid ""
+#~ "Paste the following code directly after the opening <body> tag in your "
+#~ "theme"
+#~ msgstr ""
+#~ "Wklej poniższy kod bezpośrednio za otwierającym znacznikiem <body> w "
+#~ "Twoim motywie"
+
+#~ msgid ""
+#~ "Use this option if you can not add the wp_body_open function to your "
+#~ "theme."
+#~ msgstr ""
+#~ "Użyj tej opcji jeśli nie możesz dodać funkcji wp_body_open do swojego "
+#~ "motywu."
+
+#~ msgid "Include in"
+#~ msgstr "Dołącz do"
+
+#~ msgid ""
+#~ "Paste the following code directly after open <body> tag in your theme"
+#~ msgstr ""
+#~ "Wklej poniższy kod bezpośrednio za otwierającym znacznikiem <body> w "
+#~ "Twoim motywie"
+
+#~ msgid "Prefered method"
+#~ msgstr "Preferowana metoda"
